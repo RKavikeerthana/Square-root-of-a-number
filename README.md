@@ -32,10 +32,8 @@ print("Square root of the number:",squarer(a))
 */
 ```
 
-
-
-##OUTPUT
-![](square%20root.png)
+## OUTPUT:
+![](./squareroot.png)
 
 
 ## Result:
